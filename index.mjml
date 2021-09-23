@@ -1,0 +1,127 @@
+<mjml>
+  <mj-head>
+    <mj-title>Pre-Countdown Email #2</mj-title>
+    <mj-preview>Meet the kids who get blessed with Box of Joy!</mj-preview>
+  </mj-head>
+  <mj-body background-color="#F5f5f5">
+    <mj-section background-color="#f5f5f5" padding-bottom="0px" padding-top="0px" text-align="center">
+      <mj-column>
+        <mj-text align="center" font-size="10px" color="#494949">
+          View in a web browser
+        </mj-text>
+        <mj-image alt="Cross Catholic Outreach" align="center" src="https://crossoutreach-nfe2017.informz.net/crossoutreach-nfe2017/data/images/201029-red-email_Logo_395-100.png" href="https://crosscatholic.org/" target="_blank" width="214px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="https://crossoutreach-nfe2017.informz.net/crossoutreach-nfe2017/data/images/CC2021-Email01-HeaderImg.jpg" href="https://crosscatholic.org/christmas/" target="_blank" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" text-align="left" padding-bottom="0px">
+      <mj-column>
+        <mj-text align="left" color="#494949" font-family="Arial, sans-serif" line-height="150%" font-size="18px">
+          Dear Friend, <br><br>
+          Exchanging Christmas gifts with family and friends is a blessed time because it reminds us of Christ’s birth — God’s miraculous gift to us!<br><br>
+
+          Celebrate that glorious gift even more profoundly this year. Open your heart and <strong>Be Someone’s Miracle</strong> by blessing the poor in developing countries through the Cross Catholic Outreach Christmas Catalog.<br><br>
+
+          Want to help a family put a real roof over their heads? Or make it possible for them to have enough to eat for a month? Or send kids reading glasses for school or a soccer ball to play with? <br><br>
+
+          Your gift will send these important items to impoverished families around of the world. <br><br>
+
+          Here’s how it works:
+
+          <ol>
+            <li style="padding-bottom: 20px">Choose from a variety of meaningful gifts. You can find one that’s close to your heart and fits your budget. </li>
+            <li style="padding-bottom: 20px">Select the amount you wish to donate. We set up the catalog so that any amount you give will make an impact. </li>
+            <li>Finish in moments with our secure and easy checkout. And just like that, you’ll bring long-term blessings to a family who desperately needs them.</li>
+          </ol>
+          The needs are many, but so are the ways you can give! There are over 30 gifts in this year’s catalog, including:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+      <mj-column width="50%">
+        <mj-image align="center" src="https://crossoutreach-nfe2017.informz.net/crossoutreach-nfe2017/data/images/Microfinance%20(1).jpg" alt="" width="200px" />
+        <mj-text align="center" color="#494949" font-family="Arial, sans-serif" line-height="150%" font-size="18px">
+          Microloans
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image align="center" src="https://crossoutreach-nfe2017.informz.net/crossoutreach-nfe2017/data/images/Roofing-for-Homes-in-El-Salvador.jpg" alt="" width="200px" />
+        <mj-text align="center" color="#494949" font-family="Arial, sans-serif" line-height="150%" font-size="18px">
+          Roofing Materials
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+      <mj-column width="50%">
+        <mj-image align="center" src="https://crossoutreach-nfe2017.informz.net/crossoutreach-nfe2017/data/images/Basic-Medicine-1.jpg" alt="" width="200px" />
+        <mj-text align="center" color="#494949" font-family="Arial, sans-serif" line-height="150%" font-size="18px">
+          Basic Medicine
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image align="center" src="https://crossoutreach-nfe2017.informz.net/crossoutreach-nfe2017/data/images/Emergency-Aid-Blankets-1.jpg" alt="" width="200px" />
+        <mj-text align="center" color="#494949" font-family="Arial, sans-serif" line-height="150%" font-size="18px">
+          Blankets
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" text-align="left" padding-bottom="30px">
+      <mj-column>
+        <mj-text align="left" color="#494949" font-family="Arial, sans-serif" line-height="150%" font-size="18px">By giving a gift from our Christmas Catalog, you have the opportunity to share your faith in Christ and honor a loved one while blessing children and families in a developing country.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-button align="center" background-color="#d1222a" border-radius="30px" color="#ffffff" font-size="18px" font-weight="bold" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="uppercase" vertical-align="middle" href="https://crosscatholic.org/box-of-joy/impact/" target="_blank">Give Now</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" text-align="left" padding-bottom="0">
+      <mj-column>
+        <mj-text align="left" color="#494949" font-family="Arial, sans-serif" line-height="100%" font-size="18px">
+          In Christ,</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image align="left" width="150px" src="https://crossoutreach-nfe2017.informz.net/crossoutreach-nfe2017/data/images/JSign.png" padding-bottom="0" padding-top="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" text-align="left" padding-bottom="40px" padding-top="0">
+      <mj-column width="100%">
+        <mj-image align="left" width="75px" src="https://crossoutreach-nfe2017.informz.net/crossoutreach-nfe2017/data/images/Email_Jim-BioImage.png" padding-bottom="0" padding-top="10px" padding-right="0" />
+        <mj-text align="left" color="#494949" font-family="Arial, sans-serif" line-height="150%" font-size="18px">
+          <strong>Jim Cavnar</strong><br>
+          President<br>
+          Cross Catholic Outreach
+        </mj-text>
+      </mj-column>
+      
+    </mj-section>
+
+
+    <mj-section background-color="#f5f5f5" background-repeat="repeat" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-social align="center" icon-size="30px" inner-padding="10px" border-radius="20px">
+          <mj-social-element name="facebook" background-color="#7a7a7a" href="https://www.facebook.com/crosscatholic" target="_blank"></mj-social-element>
+          <mj-social-element name="twitter" background-color="#7a7a7a" href="https://twitter.com/CrossCatholic" target="_blank"></mj-social-element>
+          <mj-social-element name="instagram" background-color="#7a7a7a" href="https://instagram.com/CrossCatholic" target="_blank"></mj-social-element>
+          <mj-social-element name="linkedin" background-color="#7a7a7a" href="https://www.linkedin.com/company/crosscatholicoutreach/" target="_blank"></mj-social-element>
+        </mj-social>
+        <mj-image src="https://crossoutreach-nfe2017.informz.net/crossoutreach-nfe2017/data/images/amazon-smile-logo-150-c.png" alt="make a donation when you make purchases using your amazon smile account" align="center" width="150px" padding-top="0px" padding-bottom="0px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f5f5f5" background-repeat="repeat" padding-top="0px">
+      <mj-column>
+        <mj-text align="center" font-size="11px" color="#494949" line-height="150%" padding-top="0px">
+          Cross Catholic Outreach • 800-914-2420<br>
+          2700 N. Military Trail, Suite 300, PO Box 273908<br>
+          Boca Raton, Florida 33427<br><br>
+          unsubscribe
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

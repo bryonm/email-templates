@@ -1,0 +1,5 @@
+use this template as a reference for this email
+
+https://mjml.io/try-it-live/templates/austin
+
+https://documentation.mjml.io/#mj-image
